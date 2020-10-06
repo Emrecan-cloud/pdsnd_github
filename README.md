@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+06.10.2020 created
 
 ### Project Title
-Replace the Project Title
+Programming bikeshare with Python by using some cities' data.
 
 ### Description
-Describe what your project is about and what it does
+It is a Udacity project which is called Programming Data Science with Python
 
 ### Files used
-Include the files used
+new_york_city
+chicago
+washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+stackoverflow.com and udacity lesson notes really helped me figure things out.
+
+### Great project in Udacity!!
 
