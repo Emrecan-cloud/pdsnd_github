@@ -46,6 +46,7 @@ def get_filters():
     """
 
     print('Hello! Let\'s explore some US bikeshare data!')
+    print("Hellooooo")
 
 
     print("Please type leave if you would like to leave the program.\n")
